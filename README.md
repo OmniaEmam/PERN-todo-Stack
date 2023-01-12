@@ -1,10 +1,5 @@
 # PERN-Todo-Stack
  
-psql -U postgres
-\c perntodo
- SELECT * FROM todo ;
- 
- 
 ## What is the project 
  -It is a simple Todo project by PERN ```Postgres Express React Node``` 
 
